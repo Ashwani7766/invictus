@@ -5,7 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+! [12]("
+AND	10
+THE	9
+IN	8
+TO	8
+WITH	6
+OF	5
+A	5
+AMAZON	5
+INVICTUS	4
+SAFETY	4
+IS	3
+COMPLIANCE	3")
 ### `npm start`
 
 Runs the app in the development mode.\
